@@ -112,7 +112,7 @@ git add .
 git commit -m "Initial commit: project structure and README skeleton"
 
 # 4. Create repo on GitHub, then:
-git remote add origin https://github.com/YOUR_USERNAME/NetPulse.git
+git remote add origin https://github.com/gcsusfhse/NetPulse.git
 git branch -M main
 git push -u origin main
 ```
