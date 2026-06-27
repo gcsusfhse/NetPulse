@@ -10,11 +10,10 @@
 | **Team Name** | Team NetPulse |
 | **Institution** | PSV College of Engineering & Technology, Krishnagiri |
 | **Department** | Computer Science & Engineering (Cyber Security) |
-| **Academic Year** | 2024–2025 |
-| **Year / Semester** | 2nd Year / 3rd Semester |
-| **Guide** | [Faculty Name] |
+| **Academic Year** | 2024–2028 |
+| **Year / Semester** | 2nd Year / 4rd Semester |
 | **Version** | 1.0.0 |
-| **Date** | November 2024 |
+| **Date** | June 2026 |
 
 ---
 
@@ -397,38 +396,6 @@ Results are saved to `outputs/scan_YYYYMMDD_HHMMSS.csv` after every scan.
 | Low | **OS Fingerprinting** | Detect OS type (like Nmap's -O flag) |
 | Low | **Packet Capture** | Live traffic monitoring mode |
 | Low | **Mobile App** | React Native companion app |
-
----
-
-## 16. Team Contributions
-
-### Arjun R. — Team Lead & Backend Developer
-- Designed overall system architecture
-- Implemented `scanner.py` (ping sweep, ARP, hostname resolution)
-- Implemented `main.py` (CLI, argument parsing, application flow)
-- Integrated all modules and resolved cross-platform issues
-- Conducted final code review
-
-### Priya K. — Network Research & QA
-- Researched networking protocols (ARP, ICMP, DNS, TCP)
-- Designed the Network Architecture diagram
-- Wrote all unit tests in `tests/test_scanner.py`
-- Performed manual testing on Linux and Windows
-- Compiled the Literature Survey section of this report
-
-### Karthik S. — Module Developer
-- Implemented `port_scanner.py` (concurrent TCP port scanning)
-- Implemented `reporter.py` (CSV export, report generation)
-- Set up the project folder structure and `config/config.ini`
-- Created Bash helper script `scripts/network_info.sh`
-- Maintained `requirements.txt` and environment setup
-
-### Sneha M. — UI/UX & Documentation
-- Implemented `display.py` (ASCII banner, color tables, ANSI output)
-- Wrote the professional `README.md` with badges and emojis
-- Created sample CSV and report output files
-- Compiled and formatted this Project Report
-- Created GitHub repository, topics, and description
 
 ---
 
