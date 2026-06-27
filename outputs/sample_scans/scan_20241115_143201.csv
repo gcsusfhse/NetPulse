@@ -1,0 +1,9 @@
+ip,mac,hostname,status,method,scan_time
+192.168.1.1,A4:C3:F0:85:71:22,router.home,Active,ICMP Ping,2024-11-15 14:32:01
+192.168.1.5,B8:27:EB:12:34:56,raspberrypi.local,Active,ICMP Ping,2024-11-15 14:32:03
+192.168.1.10,D4:6E:5C:AB:CD:EF,DESKTOP-KARTHIK,Active,ICMP Ping,2024-11-15 14:32:05
+192.168.1.15,3C:22:FB:12:AB:34,Priya-MacBook.local,Active,ICMP Ping,2024-11-15 14:32:07
+192.168.1.20,70:F1:A1:23:45:67,Arjun-Laptop,Active,ICMP Ping,2024-11-15 14:32:09
+192.168.1.25,AC:84:C6:78:90:AB,android-sneha,Active,ICMP Ping,2024-11-15 14:32:11
+192.168.1.30,B4:E6:2D:34:56:CD,Unknown,Active,ICMP Ping,2024-11-15 14:32:13
+192.168.1.100,00:1A:2B:3C:4D:5E,smart-tv.local,Active,ICMP Ping,2024-11-15 14:32:15

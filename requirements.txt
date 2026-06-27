@@ -1,0 +1,16 @@
+# NetPulse - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core networking (optional but recommended for ARP scanning)
+# Requires root/admin privileges for raw packet operations
+scapy==2.5.0
+
+# Terminal color support (for better CLI experience on Windows)
+colorama==0.4.6
+
+# For running tests
+pytest==7.4.3
+pytest-cov==4.1.0
+
+# For generating optional HTML reports (future enhancement)
+# jinja2==3.1.2
