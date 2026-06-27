@@ -161,7 +161,7 @@ NetPulse/
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/your-team/NetPulse.git
+git clone https://github.com/gcsusfhse/NetPulse.git
 cd NetPulse
 ```
 
@@ -332,15 +332,17 @@ Through this project, the team gained hands-on experience with:
 
 ## 👥 Team Members
 
-| # | Name | Role | Contribution |
-|---|------|------|-------------|
-| 1 | **Arjun R.** | Team Lead & Backend Dev | `scanner.py`, `main.py`, CLI design, integration |
-| 2 | **Priya K.** | Network Research & Testing | Network architecture, test cases, documentation |
-| 3 | **Karthik S.** | Module Developer | `port_scanner.py`, `reporter.py`, CSV logic |
-| 4 | **Sneha M.** | UI/UX & Documentation | `display.py`, README, project report, demo |
+| # | Name | 
+|---|------|
+| 1 | **ET Rishikesh Ragav** | 
+| 2 | **RB Vishal** | 
+| 3 | **P Manoj Kumar** | 
+| 4 | **P Poomaniyan** |
+| 5 | **D Dinakar** |
+| 6 | **S Dhiveshwar** |
 
 *Department of Computer Science & Engineering — Cyber Security*  
-*PSV College of Engineering & Technology, Krishnagiri — 2024*
+*PSV College of Engineering & Technology, Krishnagiri — 2026*
 
 ---
 
